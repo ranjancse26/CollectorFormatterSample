@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HL7Models.Guarantor">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EKCAAAAABACgBAAAAAEAABACAgAQAAAggQAAAAAAAQA=</HashCode>
+      <FileName>HL7\Guarantor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7Models.HL7MessageRoot">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>HL7\HL7MessageRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7Models.Insurance">
+    <Position X="2.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIQAAgAADgEAQIgggAQBAIAEgAhABgkgAAIIIAAEk=</HashCode>
+      <FileName>HL7\Insurance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7Models.Message">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAQAAAgAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>HL7\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7Models.MessageHeader">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>HL7\MessageHeader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HL7Models.PatientIdentification">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EKCAAAAABACgBAAAAgAAABECAgAQAAAggAQAAAAAAQA=</HashCode>
+      <FileName>HL7\PatientIdentification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
